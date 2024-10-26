@@ -15,7 +15,7 @@ Dependencies are listed below and in the `requirements.txt` file.
 * sklearn
 * speechpy
 * tensorflow
-## Unzip dataset and docs folder in the main directory/inside Speech Emotion Recognition flder. 
+### Unzip dataset and docs folder in the main directory/inside Speech Emotion Recognition flder. 
 
 Install one of python package managers in your distro. If you install pip, then you can install the dependencies by running 
 `pip3 install -r requirements.txt` 
