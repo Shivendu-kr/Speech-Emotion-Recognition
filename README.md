@@ -9,7 +9,6 @@ Linux (preferable Ubuntu LTS). Python2.x
 *Note*: You can skip this step, if you are installing the packages. 
 Dependencies are listed below and in the `requirements.txt` file.
 
-* h5py
 * Keras
 * scipy
 * sklearn
